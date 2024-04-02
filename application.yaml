@@ -10,5 +10,5 @@ spec:
   project: default
   source:
     repoURL: https://github.com/akinolafusi/argotest.git
-    path: ./guestboo_app.yaml
+    path: ./guestbook.yaml
     targetRevision: HEAD
